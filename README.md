@@ -1,2 +1,2 @@
 # flapper-news
-MEAN project
+MEAN project - sandbox for node.js, angular, express, and mongodb
